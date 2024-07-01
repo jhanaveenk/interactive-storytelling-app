@@ -1,5 +1,3 @@
-# interactive-storytelling-app
-
 # Interactive Storytelling Application
 
 This is a simple interactive storytelling application using OpenAI's GPT-3/GPT-4, FastAPI, and vanilla JavaScript.
