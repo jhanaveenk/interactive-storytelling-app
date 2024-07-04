@@ -1,0 +1,14 @@
+body {
+   font-family: Arial, sans-serif;
+   margin: 20px;
+}
+#story {
+   white-space: pre-wrap;
+   border: 1px solid #ddd;
+   padding: 10px;
+   margin-bottom: 20px;
+}
+button {
+   padding: 10px;
+   font-size: 16px;
+}
